@@ -1,0 +1,8 @@
+name: pact-broker
+version: 0.1.0
+apiVersion: v1
+appVersion: 2.38.1
+description: A Helm chart for Pact-Broker
+icon: https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LC2AYrI9MJa-_aAjE1u%2F-LanAsvj8t2Fxhd55l37%2F-LanAtusxEP3HvJVJxsd%2Fpact-logo.png?generation=1553489437517488&alt=media
+sources:
+  - https://github.com/nenad/helm-charts
